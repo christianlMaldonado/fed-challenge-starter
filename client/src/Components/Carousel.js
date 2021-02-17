@@ -26,7 +26,7 @@ const Section = () => {
                     />
 
                     <Carousel.Caption>
-                        <h3>Awesome Playlists!</h3>
+                        <h3>Awesome Playlists</h3>
                         <p>Workout with iFit</p>
                     </Carousel.Caption>
                 </Carousel.Item>
