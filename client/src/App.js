@@ -13,10 +13,7 @@ function App() {
     <Router>
       <div className="App">
        <Nav/>
-        <Switch>
-          <Route path="/" exact component={Home} />
-          
-        </Switch>
+        <Home/>
       </div>
     </Router>
   );
