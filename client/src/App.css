@@ -1,3 +1,4 @@
+
 .App {
   text-align: center;
 }
@@ -35,4 +36,29 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+body {
+  background-color: white;
+  color: black;
+  padding: 20px;
+  font-family: Arial;
+  text-align: center;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 10vh;
+  background: white;
+  color: black;
+}
+
+.nav-links{
+  width: 60%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style:none;
 }
