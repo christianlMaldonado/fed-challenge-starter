@@ -4,6 +4,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Thanks for your interest in becoming a member of iFit's front end team! As part of the application process, we ask that you complete the following challenge.✅
 
+
+![Test Image 1](SlideOne.png)
+
+![Test Image 2](SlideTwo.png)
+
+![Test Image 3](SlideThree.png)
+
 ## What do I do?
 
 This repo includes a very basic initialization of the `create-react-app` framework, along with the challenge instructions.✅
