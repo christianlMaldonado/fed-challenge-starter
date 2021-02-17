@@ -10,8 +10,6 @@ This repo includes a very basic initialization of the `create-react-app` framewo
 
 Your task is to build out a single page section based on the provided designs (included below under Required Assets). Your work will be judged based on how well it matches the designs, how well you've implemented at least basic responsive functionality, and your code's cleanliness and structure. ✅
 
-In addition, we ask that you show off your state management skills by adding select functionality for each of the cards. When clicked, they should reflect the active state pictured in the designs (top left card, with increased box-shadow).
-
 ## How do I submit?
 
 Here's the ideal workflow:

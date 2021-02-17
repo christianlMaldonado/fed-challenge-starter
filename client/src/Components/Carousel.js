@@ -24,7 +24,6 @@ const Section = () => {
                         src={slidetwo}
                         alt="Second Slide"
                     />
-
                     <Carousel.Caption>
                         <h3>Awesome Playlists</h3>
                         <p>Workout with iFit</p>
@@ -36,7 +35,6 @@ const Section = () => {
                         src={slidethree}
                         alt="Third slide"
                     />
-
                     <Carousel.Caption>
                         <h3> Watch Anywhere</h3>
                         <p> Watch Anywhere With These iFit Apps</p>
